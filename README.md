@@ -266,7 +266,7 @@ res.forEach((blob) => {
 
 # Update History
 
-- v1.0.0 (December 4, 2023)
+- v1.0.0 (December 4, 2024)
 
   1. Initial release.
 
